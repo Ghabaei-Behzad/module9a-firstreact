@@ -1,3 +1,38 @@
+// Behzad Ghabaei
+// CS 81 - JavaScript
+// Assignment 9A
+// README.md - UserProfile.jsx - App.jsx - ContactCard.jsx
+// Instructor Seno
+
+## Description
+This project is a modern web application built using the Vite build tool and the React library.
+Its primary purpose is to display a UserProfile component that shows a user's professional
+headshot, name, and a short biography. I used the code provided and some help with the inline CSS
+styles to ensure the component is visually appealing and centered on the screen without needing
+external stylesheets. This setup serves as a foundational exercise in understanding how data flows
+from variables into a user interface.
+
+## What I Learned
+Through this assignment, I learned how to practice on a fast development environment using the NPM Vite
+Template command. I gained first time experience writing JSX, which allowed me to combine HTML-like structures
+directly with JavaScript. I also practiced building a functional component, learning how to export it
+from one file and import it into App.jsx and, Finally, I was introduced to the syntax for inline styling
+in React, which uses camelCase properties and object-based values rather than standard CSS strings.
+
+## Challenges
+One of the first hurdles I encountered was a PowerShell execution policy error that initially prevented me
+from running any npm scripts on my machine. I solved this by using the Set-ExecutionPolicy command in an administrative
+terminal to temporarily allow script execution. I also faced a "non-fast-forward" error when pushing to GitHub, which
+happened because my local branch was out of sync with the remote repository. By learning to use git pull with the --allow-unrelated-histories
+flag, I was able to merge the two versions and successfully upload my code.  I wasn't sure if I could upload random images
+of people with the names which were provided but I did this for practicing on the localhost browser.
+
+## Screenshot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee199155-cd9e-44ad-a582-0a9e32d779a2" />
+
+
+
+//previous README.md file (ignore all below this line)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

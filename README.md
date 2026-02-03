@@ -28,7 +28,8 @@ flag, I was able to merge the two versions and successfully upload my code.  I w
 of people with the names which were provided but I did this for practicing on the localhost browser.
 
 ## Screenshot
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee199155-cd9e-44ad-a582-0a9e32d779a2" />
+<img width="1366" height="708" alt="DevTeam" src="https://github.com/user-attachments/assets/5392dc58-1eb0-4873-8ad2-37470d9b62c8" />
+
 
 
 

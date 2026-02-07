@@ -21,20 +21,17 @@ from one file and import it into App.jsx and, Finally, I was introduced to the s
 in React, which uses camelCase properties and object-based values rather than standard CSS strings.
 
 ## Challenges
-One of the first hurdles I encountered was a PowerShell execution policy error that initially prevented me
-from running any npm scripts on my machine. I solved this by using the Set-ExecutionPolicy command in an administrative
-terminal to temporarily allow script execution. I also faced a "non-fast-forward" error when pushing to GitHub, which
-happened because my local branch was out of sync with the remote repository. By learning to use git pull with the --allow-unrelated-histories
-flag, I was able to merge the two versions and successfully upload my code.  I wasn't sure if I could upload random images
-of people with the names which were provided but I did this for practicing on the localhost browser.
+One of the first problems I encountered was a PowerShell file management and execution error that initially prevented me
+from running any npm scripts on my machine. I solved this by navigating to the correct file then installing and then running npm.  
+ I also faced an error when pushing to GitHub, which happened because my local branch was out of sync with the remote repository. By learning to use git pull with the --allow-unrelated-histories flag, I was able to merge the two versions and successfully upload my code.  I wasn't sure if I could upload random images. I finally used emojis instead of real pictures and the website link addresses were very lengthy.  I did this for practicing on the localhost browser.  Although I could have centered the tiles, I preferred to place them to the left side for future additional tiles to be added. The index.css files that were provided allowed me to move around the Student profiles.
 
 ## Screenshot
-<img width="1366" height="708" alt="DevTeam" src="https://github.com/user-attachments/assets/5392dc58-1eb0-4873-8ad2-37470d9b62c8" />
+<img width="1366" height="689" alt="module9a" src="https://github.com/user-attachments/assets/d16a1b37-bc2f-487d-bfe9-b510076d6866" />
 
 
 
 
-//previous README.md file (ignore all below this line)
+// This information below was provide by React and was really useful to learn in the beginning of my experience.//
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
